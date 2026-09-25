@@ -58,7 +58,7 @@ F1-score — 0,45.
 - NumPy
 - SciPy 
 - Scikit-Learn (sklearn)
-- Imbalanced-learn (сокращенно imblearn) 
+- Imbalanced-learn (imblearn) 
 
 
 
